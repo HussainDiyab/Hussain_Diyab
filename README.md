@@ -1,4 +1,4 @@
-# Breast Cancer Dataset - EDA Phase 1
+# Breast Cancer Dataset - EDA Phase 1 and 2
 # Hussain Diyab- 23BDS0201
 
 This project performs Exploratory Data Analysis (EDA) on the Breast Cancer Wisconsin dataset to understand the relationship between cell features and the diagnosis (Malignant or Benign).
@@ -9,6 +9,9 @@ This project performs Exploratory Data Analysis (EDA) on the Breast Cancer Wisco
 * Data cleaning and preprocessing
 * Univariate, bivariate, and multivariate analysis
 * Correlation analysis and PCA
+* 1D, 2D and 3D statistical analysis
+* K-means and hierarchical clustering
+* Principal component analysis (scree plot, loadings, biplot, reconstruction error)
 
 ### Dataset
 
