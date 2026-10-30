@@ -12,6 +12,7 @@ This project performs Exploratory Data Analysis (EDA) on the Breast Cancer Wisco
 * 1D, 2D and 3D statistical analysis
 * K-means and hierarchical clustering
 * Principal component analysis (scree plot, loadings, biplot, reconstruction error)
+* Simple Linear Regression
 
 ### Dataset
 
